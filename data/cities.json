@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "31b1",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-07-06T13:30:13.667Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.046216814520655",
+        "lng": "29.267578125000004"
+      }
+    },
+    {
+      "id": "63c2",
+      "cityName": "Baghdad",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2025-07-06T13:32:58.493Z",
+      "notes": "test",
+      "position": {
+        "lat": "33.31675830290707",
+        "lng": "44.45343017578126"
+      }
+    },
+    {
+      "id": "2d25",
+      "cityName": "Baleira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-12T14:12:57.522Z",
+      "notes": "da",
+      "position": {
+        "lat": "42.98857645832184",
+        "lng": "-7.141113281250001"
+      }
+    }
+  ]
+}
